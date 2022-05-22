@@ -1,4 +1,4 @@
-# ANIMA WARRIOR
+# ANIMA WARRIORS
 
 This is the ANIMA WARRIORS web repository.
 
