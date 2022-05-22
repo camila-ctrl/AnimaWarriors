@@ -2,6 +2,8 @@
 
 This is the ANIMA WARRIORS web repository.
 
+![logo](https://user-images.githubusercontent.com/83368262/169678982-432c6f49-75e0-40a1-b48b-e80d59931081.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
