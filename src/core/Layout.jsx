@@ -10,6 +10,7 @@ export default function Layout({ children, ...rest }) {
         <NavBar />
         {children}
       </>
-    </div>
+    </div> 
+    // pruebaa hdp
   );
 }
