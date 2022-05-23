@@ -1,4 +1,5 @@
 import NavBar from "../components/NavBar";
+import {useState} from "react"
 
 export default function Layout({ children, ...rest }) {
   return (
@@ -11,6 +12,5 @@ export default function Layout({ children, ...rest }) {
         {children}
       </>
     </div> 
-    //olis
   );
 }
